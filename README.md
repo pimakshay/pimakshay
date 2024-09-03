@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay Pimpalkar.
-- 🔍 Exploring various areas of interest: generative AI, DNNs, natural/medical imaging, and computational modeling.
-- 🌱 I’m currently enrolled in Computational Science and Eng. at Technical University of Munich, Germany.
-- 💞️ I’m looking to collaborate on topics related to machine learning, image synthesis, numerical modeling/simulations (particularly CFD and FEM), and parallel computing.
+- 🔍 Exploring various areas of interest: generative AI, DNNs, computer vision, NLP, and computational modeling.
+- 🌱 Masters in Computational Science and Eng. from the Technical University of Munich, Germany.
+- 💞️ I’m looking to collaborate on topics related to machine learning, computer vision, agentic models, LLMs, numerical modeling/simulations, and parallel computing.
 - 📫 You can reach me at https://www.linkedin.com/in/pimakshay/
