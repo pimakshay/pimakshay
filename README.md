@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Akshay Pimpalkar.
-- 🔍 Exploring various areas of interest: generative AI, DNNs, computer vision, NLP, and computational modeling.
-- 🌱 Masters in Computational Science and Eng. from the Technical University of Munich, Germany.
-- 💞️ I’m looking to collaborate on topics related to machine learning, computer vision, agentic models, LLMs, numerical modeling/simulations, and parallel computing.
+- 🔍 Passionate about building real-world AI applications, especially in generative AI, computer vision, LLMs, and agentic systems.
+- 🎓 Master’s in Computational Science and Engineering from the Technical University of Munich (TUM), with prior research experience at IIT Guwahati.
+- 🚀 Co-founded an AI startup focused on non-invasive livestock health monitoring using thermal imaging and deployed CV models on cloud, Android, and edge devices.
+- 💡 Interested in collaborations on applied machine learning, vision-language models, diffusion models, cloud deployment, and computational modelling.
 - 📫 You can reach me at https://www.linkedin.com/in/pimakshay/
